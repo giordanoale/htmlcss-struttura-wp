@@ -11,7 +11,27 @@
 }
 /* /general */
 
+/* header */
 header{
   height: 100px;
   background-color: pink;
+  margin-bottom: 10px;
 }
+/* /header */
+
+/* corpo principale */
+.jumbotron{
+  height: 80vh;
+  background-color: yellow;
+  margin-bottom: 10px;
+}
+
+.main-section{
+  height: 80vh;
+  background-color: blue;
+}
+
+.top-title{
+  height:
+}
+/* /corpo principale */
