@@ -1,5 +1,17 @@
+/* general */
 *{
   margin:0;
   padding:0;
   box-sizing: border-box;
+}
+
+.container{
+  width: 80%;
+  margin:auto;
+}
+/* /general */
+
+header{
+  height: 100px;
+  background-color: pink;
 }
