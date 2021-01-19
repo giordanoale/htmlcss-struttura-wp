@@ -32,6 +32,32 @@ header{
 }
 
 .top-title{
-  height:
+  height:10%;
+  background-color: lightblue;
+  margin-bottom: 2%;
+}
+
+.column{
+  background-color: lightblue;
+}
+
+.column.left{
+  height: 82%;
+  width: 25%;
+  float:left;
+}
+
+.column.center{
+  height: 82%;
+  width: 46%;
+  margin-left: 2%;
+  margin-right: 2%;
+  float:left;
+}
+
+.column.right{
+  height: 82%;
+  width: 25%;
+  float:left;
 }
 /* /corpo principale */
