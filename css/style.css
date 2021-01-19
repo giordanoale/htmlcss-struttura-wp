@@ -61,3 +61,10 @@ header{
   float:left;
 }
 /* /corpo principale */
+
+/* footer */
+footer{
+  height: 60px;
+  background-color: purple;
+  margin-top: 10px;
+}
